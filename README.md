@@ -4,7 +4,7 @@ Proyecto final · INC-2505 Análisis y exploración de datos
 Segmentación de clientes de una cafetería universitaria (dataset propio y **simulado**) con estadística descriptiva,
 limpieza de datos, inferencia (t de Student y regresión) y K-means, presentado en un dashboard de Streamlit.
 
-**Dashboard publicado:** _(pega aquí tu enlace de Streamlit Community Cloud)_
+**Dashboard publicado:** https://cafe-la-corona.streamlit.app/
 
 ## Contenido
 | Archivo | Qué es | Rúbrica |
